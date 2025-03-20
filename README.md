@@ -1,9 +1,8 @@
 # socials-cli
 
-Just do the following line
+Just enter the following command to download and extract the social svgs and components in the terminal.
+Happy coding! 🚀🚀🚀
 
 ```bash
-bunx myusername/socials-cli mymodule1 mymodule2
+bunx AltruisticCraftLab/socials-cli social-svgs social-components
 ```
-
-mymodule1 and mymodule2 are the names of the socials modules you want to download and extract.
