@@ -1,15 +1,9 @@
 # socials-cli
 
-To install dependencies:
+Just do the following line
 
 ```bash
-bun install
+bunx myusername/socials-cli mymodule1 mymodule2
 ```
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+mymodule1 and mymodule2 are the names of the socials modules you want to download and extract.

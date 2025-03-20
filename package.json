@@ -1,13 +1,12 @@
 {
   "name": "socials-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": {
     "socials": "dist/socials-cli.js"
   },
   "scripts": {
     "build": "bun build scripts/socials-cli.ts --outdir dist --target bun"
   },
-  "module": "index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
